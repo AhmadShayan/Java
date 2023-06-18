@@ -1,4 +1,6 @@
 public class Main {
+
+    String myName = "Ahmad Shayan";
     public static void main(String[] args){
         System.out.print("1. Adding Three Numbers: ");
         int sum = addThreeNum(1,2,4);
