@@ -1,9 +1,17 @@
 public class Main {
 
     public static void main(String[] args) {
-        Circle test3 = new Circle(4);
-        System.out.println(test3.calculateArea());
-        System.out.println(test3.calculatePerimeter());
+//        Constructor employee1 = new Constructor();
+//        System.out.println(employee1.name + "\n" + employee1.salary  + "\n" + "---------------");
+//        Constructor employee2 = new Constructor(50000);
+//        System.out.println(employee2.name + "\n" + employee2.salary  + "\n" + "---------------");
+//        Constructor employee3 = new Constructor("Shayan");
+//        System.out.println(employee3.name + "\n" + employee3.salary  + "\n" + "---------------");
+
+
+//        Circle test3 = new Circle(4);
+//        System.out.println(test3.calculateArea());
+//        System.out.println(test3.calculatePerimeter());
 
 //        Rectangle test2 = new Rectangle(2,4);
 //        System.out.println(test2.calculateArea());
